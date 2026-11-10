@@ -70,6 +70,8 @@ jobs:
             --exclude='/SECURITY.md' \
             --exclude='/CONTRIBUTING.md' \
             --exclude='/CODE_OF_CONDUCT.md' \
+            --exclude='/scripts/' \
+            --exclude='/wiki-content/' \
             --exclude='/.svn-revision' \
             "$RUNNER_TEMP/acbr-export/" ./
           printf '%s\n' "${{ steps.svn.outputs.revision }}" > .svn-revision

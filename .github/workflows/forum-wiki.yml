@@ -35,12 +35,15 @@ jobs:
             git push origin HEAD:main
           fi
       - name: Publicar Wiki (opcional)
-        if: ${{ env.WIKI_TOKEN != '' }}
         env:
           WIKI_TOKEN: ${{ secrets.ACBR_WIKI_TOKEN }}
         shell: bash
         run: |
           set -euo pipefail
+          if [[ -z "$WIKI_TOKEN" ]]; then
+            echo "Wiki GitHub ainda nao configurada: indice salvo em wiki-content/."
+            exit 0
+          fi
           git clone "https://x-access-token:${WIKI_TOKEN}@github.com/fraurino/ACBr-SVN-Mirror.wiki.git" "$RUNNER_TEMP/acbr-wiki"
           cp wiki-content/*.md "$RUNNER_TEMP/acbr-wiki/"
           cd "$RUNNER_TEMP/acbr-wiki"

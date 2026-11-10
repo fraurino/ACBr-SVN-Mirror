@@ -1,0 +1,60 @@
+name: Monitorar Forum ACBr e gerar Wiki
+
+on:
+  schedule:
+    - cron: '19 0,6,12,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: forum-acbr-wiki
+  cancel-in-progress: false
+
+jobs:
+  forum:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Consultar categorias e topicos publicos
+        run: python3 scripts/forum_wiki.py
+      - name: Registrar atualizacao do indice
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wiki-content/ .github/forum-wiki-state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: atualizar indice publico do Forum ACBr"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Publicar Wiki (opcional)
+        if: ${{ env.WIKI_TOKEN != '' }}
+        env:
+          WIKI_TOKEN: ${{ secrets.ACBR_WIKI_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone "https://x-access-token:${WIKI_TOKEN}@github.com/fraurino/ACBr-SVN-Mirror.wiki.git" "$RUNNER_TEMP/acbr-wiki"
+          cp wiki-content/*.md "$RUNNER_TEMP/acbr-wiki/"
+          cd "$RUNNER_TEMP/acbr-wiki"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Home.md Forum-ACBr.md
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: atualizar indice publico do Forum ACBr"
+            git push
+          fi
+      - name: Resumo
+        if: always()
+        run: |
+          echo "## Monitoramento Forum ACBr" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Status: ${{ job.status }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Arquivos: wiki-content/" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Wiki GitHub: requer inicializacao e secret ACBR_WIKI_TOKEN" >> "$GITHUB_STEP_SUMMARY"

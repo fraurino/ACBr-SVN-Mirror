@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suporte e dúvidas sobre componentes ACBr
+    url: https://www.projetoacbr.com.br/forum/
+    about: Para NF-e, NFC-e, CT-e, MDF-e, NFS-e e demais componentes oficiais.
+  - name: Reportar vulnerabilidade de segurança
+    url: https://github.com/fraurino/ACBr-SVN-Mirror/security
+    about: Consulte a política SECURITY.md e use um canal privado antes de enviar detalhes sensíveis.

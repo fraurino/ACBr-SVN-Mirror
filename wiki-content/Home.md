@@ -1,9 +1,8 @@
 # ACBr-SVN-Mirror — Wiki
 
-> Wiki comunitária não oficial do Projeto ACBr.
+> Wiki comunitária não oficial; consulte sempre o [Fórum ACBr](https://www.projetoacbr.com.br/forum/).
 
-- [Índice do Fórum Público](Forum-ACBr)
-- [Fórum ACBr](https://www.projetoacbr.com.br/forum/)
-- [Repositório ACBr-SVN-Mirror](https://github.com/fraurino/ACBr-SVN-Mirror)
+- [Índice de tópicos e categorias públicas](Forum-ACBr)
+- [Repositório e sincronização SVN](https://github.com/fraurino/ACBr-SVN-Mirror)
 
-O índice é gerado automaticamente a cada 6 horas, quando o fórum está acessível. Não reproduz o conteúdo integral das mensagens.
+Os títulos e links são indexados automaticamente, sem reprodução integral de conteúdo.

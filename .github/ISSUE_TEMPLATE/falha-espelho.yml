@@ -1,0 +1,30 @@
+name: "🐛 Falha na sincronização"
+description: "Relatar um problema no espelho SVN → GitHub (não nos componentes originais)."
+title: "[Sync] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Para dúvidas sobre o código do ACBr, utilize o fórum oficial. Não publique segredos ou dados fiscais reais."
+  - type: input
+    id: run
+    attributes:
+      label: Link da execução do GitHub Actions
+      placeholder: "https://github.com/fraurino/ACBr-SVN-Mirror/actions/runs/..."
+  - type: input
+    id: revision
+    attributes:
+      label: Revisão SVN observada
+      placeholder: "r49080"
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento esperado
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportamento observado e passos para reproduzir
+    validations:
+      required: true

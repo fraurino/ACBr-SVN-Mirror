@@ -1,0 +1,21 @@
+name: "💡 Melhoria do espelho"
+description: "Sugerir melhorias na automação, segurança ou documentação do espelho."
+title: "[Melhoria] "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema ou necessidade
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta e benefícios
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Impactos na sincronização e riscos

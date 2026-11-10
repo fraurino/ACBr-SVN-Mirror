@@ -67,6 +67,9 @@ jobs:
             --exclude='/.git/' \
             --exclude='/.github/' \
             --exclude='/README.md' \
+            --exclude='/SECURITY.md' \
+            --exclude='/CONTRIBUTING.md' \
+            --exclude='/CODE_OF_CONDUCT.md' \
             --exclude='/.svn-revision' \
             "$RUNNER_TEMP/acbr-export/" ./
           printf '%s\n' "${{ steps.svn.outputs.revision }}" > .svn-revision
@@ -79,3 +82,20 @@ jobs:
           fi
           git commit -m "sync: ACBr SVN r${{ steps.svn.outputs.revision }}"
           git push origin HEAD:${{ github.event.repository.default_branch }}
+
+      - name: Resumo da verificacao
+        if: always()
+        shell: bash
+        env:
+          SVN_REVISION: ${{ steps.svn.outputs.revision }}
+          SVN_CHANGED: ${{ steps.svn.outputs.changed }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          {
+            echo '## ACBr SVN Mirror'
+            echo "- Resultado do job: **$JOB_STATUS**"
+            echo "- Revisao consultada: **${SVN_REVISION:-indisponivel}**"
+            echo "- Alteracao detectada: **${SVN_CHANGED:-indisponivel}**"
+            echo "- Execucao: **${GITHUB_RUN_ID}**"
+            echo "- Momento UTC: **$(date -u '+%Y-%m-%d %H:%M:%S')**"
+          } >> "$GITHUB_STEP_SUMMARY"

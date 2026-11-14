@@ -2,7 +2,7 @@
 
 > **Espelho comunitário não oficial.** Este índice contém somente títulos e links públicos. Não reproduz mensagens nem representa orientação oficial do Projeto ACBr.
 
-Última consulta: **2026-11-14 18:07 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1381**.
+Última consulta: **2026-11-14 22:27 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1381**.
 
 ## Categorias públicas
 
@@ -1433,8 +1433,8 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Contingencia agendada para a Sefaz de Minas Gerais no dia 16/11/2026](https://www.projetoacbr.com.br/forum/topic/96008-contingencia-agendada-para-a-sefaz-de-minas-gerais-no-dia-16112026/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
 - [ACBrDFeXsLibXml2 - validação falha com PathSchemas em caminho de rede (UNC \\\\servidor\\pasta) - correção em anexo](https://www.projetoacbr.com.br/forum/topic/96010-acbrdfexslibxml2-valida%C3%A7%C3%A3o-falha-com-pathschemas-em-caminho-de-rede-unc-servidorpasta-corre%C3%A7%C3%A3o-em-anexo/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
 - [Componente: ACBrDFe.RTC.XmlWriter.pas Classe: TDFeRTCXmlWriter 1. Problema identificado Ao gerar uma NF-e com tpEnteGov = 1, tpOperGov = 1 e pRedutor = 0, identificamos duas situaç](https://www.projetoacbr.com.br/forum/topic/96011-componente-acbrdfertcxmlwriterpas-classe-tdfertcxmlwriter-1-problema-identificado-ao-gerar-uma-nf-e-com-tpentegov-1-tpopergov-1-e-predutor-0-identificamos-duas-situa%C3%A7%C3%B5es-rejei%C3%A7%C3%A3o-1144-o-grupo-gcompragov-n%C3%A3o-era-gerado-no-cabe%C3%A7alho-da-nf/) — [categoria](https://www.projetoacbr.com.br/forum/forum/49-nfc-e-nota-fiscal-do-consumidor-eletr%C3%B4nica/)
-- [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
 - [\[Contribuição\] ACBrNFe.EnvEvento.pas - Ajustes nos eventos da Reforma Tributária (211128, 211120, 212110/212120 e 112150)](https://www.projetoacbr.com.br/forum/topic/96012-contribui%C3%A7%C3%A3o-acbrnfeenveventopas-ajustes-nos-eventos-da-reforma-tribut%C3%A1ria-211128-211120-212110212120-e-112150/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
+- [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
 - [CT-e (RTC): gTribSN gerado dentro do gIBSCBS, e não como irmão dele no IBSCBS](https://www.projetoacbr.com.br/forum/topic/95951-ct-e-rtc-gtribsn-gerado-dentro-do-gibscbs-e-n%C3%A3o-como-irm%C3%A3o-dele-no-ibscbs/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
 - [\[ACBR-9936\] Impressão do CTe Simplificado](https://www.projetoacbr.com.br/forum/topic/90681-acbr-9936-impress%C3%A3o-do-cte-simplificado/) — [categoria](https://www.projetoacbr.com.br/forum/forum/6-acbrcte/)
 - [Erro ao emitir NFC-e Homologação SP](https://www.projetoacbr.com.br/forum/topic/94699-erro-ao-emitir-nfc-e-homologa%C3%A7%C3%A3o-sp/) — [categoria](https://www.projetoacbr.com.br/forum/forum/100-duvidas-gerais-acbr-api/)

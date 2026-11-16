@@ -2,7 +2,7 @@
 
 > **Espelho comunitário não oficial.** Este índice contém somente títulos e links públicos. Não reproduz mensagens nem representa orientação oficial do Projeto ACBr.
 
-Última consulta: **2026-11-15 18:53 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1381**.
+Última consulta: **2026-11-16 06:34 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1381**.
 
 ## Categorias públicas
 

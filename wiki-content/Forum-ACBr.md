@@ -2,7 +2,7 @@
 
 > **Espelho comunitário não oficial.** Este índice contém somente títulos e links públicos. Não reproduz mensagens nem representa orientação oficial do Projeto ACBr.
 
-Última consulta: **2026-11-20 20:24 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1459**.
+Última consulta: **2026-11-21 07:13 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1459**.
 
 ## Categorias públicas
 
@@ -1431,10 +1431,10 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Ajuste nas configurações da ACBrNF3e para o estado do Pará](https://www.projetoacbr.com.br/forum/topic/96114-ajuste-nas-configura%C3%A7%C3%B5es-da-acbrnf3e-para-o-estado-do-par%C3%A1/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [NFC-e - GET /nfce/{id}/pdf retorna 500 ServerError quando o pagamento tem tPag 91 (Pagamento Posterior)](https://www.projetoacbr.com.br/forum/topic/96124-nfc-e-get-nfceidpdf-retorna-500-servererror-quando-o-pagamento-tem-tpag-91-pagamento-posterior/) — [categoria](https://www.projetoacbr.com.br/forum/forum/99-acbr-api/)
 - [Rejeição 1229 Nao informada Tributacao Monofasica Ad Valorem do IBS](https://www.projetoacbr.com.br/forum/topic/96126-rejei%C3%A7%C3%A3o-1229-nao-informada-tributacao-monofasica-ad-valorem-do-ibs/) — [categoria](https://www.projetoacbr.com.br/forum/forum/54-acbrmonitor-plus/)
-- [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
-- [Emitindo NFS-e pelo emissor nacional](https://www.projetoacbr.com.br/forum/topic/96131-emitindo-nfs-e-pelo-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
 - [ERRO ao compilar o ACBr\_PCNComum.dpk após atualizar o ACBR no delphi 7](https://www.projetoacbr.com.br/forum/topic/96127-erro-ao-compilar-o-acbr_pcncomumdpk-ap%C3%B3s-atualizar-o-acbr-no-delphi-7/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Recuperar Evento DFe](https://www.projetoacbr.com.br/forum/topic/96129-recuperar-evento-dfe/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
+- [Emitindo NFS-e pelo emissor nacional](https://www.projetoacbr.com.br/forum/topic/96131-emitindo-nfs-e-pelo-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
+- [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
 - [Erro ao instalar componentes ACBr em 01/10/2026 FastReport Win64](https://www.projetoacbr.com.br/forum/topic/95109-erro-ao-instalar-componentes-acbr-em-01102026-fastreport-win64/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Emissor Nacional Nota de Serviço](https://www.projetoacbr.com.br/forum/topic/95741-emissor-nacional-nota-de-servi%C3%A7o/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Envio sem Inscrição Estadual - Emitente Exclusivo do IBS/CBS - NT2026/007](https://www.projetoacbr.com.br/forum/topic/95842-envio-sem-inscri%C3%A7%C3%A3o-estadual-emitente-exclusivo-do-ibscbs-nt2026007/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)

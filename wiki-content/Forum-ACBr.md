@@ -2,7 +2,7 @@
 
 > **Espelho comunitário não oficial.** Este índice contém somente títulos e links públicos. Não reproduz mensagens nem representa orientação oficial do Projeto ACBr.
 
-Última consulta: **2026-11-21 07:13 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1459**.
+Última consulta: **2026-11-21 19:19 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1460**.
 
 ## Categorias públicas
 
@@ -1322,7 +1322,6 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Erro: 999 — ESoapMessageDeserializationError / TRetEnvEvento Endpoint SEFAZ: RecepcaoEvento4 — HTTP 200](https://www.projetoacbr.com.br/forum/topic/95733-erro-999-%E2%80%94-esoapmessagedeserializationerror-tretenvevento-endpoint-sefaz-recepcaoevento4-%E2%80%94-http-200/) — [categoria](https://www.projetoacbr.com.br/forum/forum/100-duvidas-gerais-acbr-api/)
 - [API de WhatsApp para Delphi: envie boleto, DANFE e avisos direto do seu sistema (unit pronta)](https://www.projetoacbr.com.br/forum/topic/95734-api-de-whatsapp-para-delphi-envie-boleto-danfe-e-avisos-direto-do-seu-sistema-unit-pronta/) — [categoria](https://www.projetoacbr.com.br/forum/forum/14-classificados/)
 - [SÃO SEBASTIÃO DO PASSÉ - MIGROU PARA EMISSOR NACIONAL](https://www.projetoacbr.com.br/forum/topic/95761-s%C3%A3o-sebasti%C3%A3o-do-pass%C3%A9-migrou-para-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/100-duvidas-gerais-acbr-api/)
-- [Erro ao emitir NFSe Castro-PR](https://www.projetoacbr.com.br/forum/topic/95765-erro-ao-emitir-nfse-castro-pr/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Projeto ACBr adiciona suporte a compilação ACBrLib Linux - ARM64](https://www.projetoacbr.com.br/forum/topic/95775-projeto-acbr-adiciona-suporte-a-compila%C3%A7%C3%A3o-acbrlib-linux-arm64/) — [categoria](https://www.projetoacbr.com.br/forum/forum/35-not%C3%ADcias-do-acbr/)
 - [Falha na Autenticação Banco do Brasil API (Produção) - Erro HTTP 500 / wrong tag após 26/10](https://www.projetoacbr.com.br/forum/topic/95790-falha-na-autentica%C3%A7%C3%A3o-banco-do-brasil-api-produ%C3%A7%C3%A3o-erro-http-500-wrong-tag-ap%C3%B3s-2610/) — [categoria](https://www.projetoacbr.com.br/forum/forum/8-acbrboleto/)
 - [Reinf - Erro 13 Após a data 01/11/2026 não será mais permitido o envio de eventos com NI de contribuinte diferente do NI do contribuinte do lote](https://www.projetoacbr.com.br/forum/topic/95794-reinf-erro-13-ap%C3%B3s-a-data-01112026-n%C3%A3o-ser%C3%A1-mais-permitido-o-envio-de-eventos-com-ni-de-contribuinte-diferente-do-ni-do-contribuinte-do-lote/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
@@ -1435,6 +1434,8 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Recuperar Evento DFe](https://www.projetoacbr.com.br/forum/topic/96129-recuperar-evento-dfe/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
 - [Emitindo NFS-e pelo emissor nacional](https://www.projetoacbr.com.br/forum/topic/96131-emitindo-nfs-e-pelo-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
 - [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
+- [Pagamento efetuado na Eduzz, mas PRO ainda não disponível](https://www.projetoacbr.com.br/forum/topic/96134-pagamento-efetuado-na-eduzz-mas-pro-ainda-n%C3%A3o-dispon%C3%ADvel/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
+- [Erro ao emitir NFSe Castro-PR](https://www.projetoacbr.com.br/forum/topic/95765-erro-ao-emitir-nfse-castro-pr/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Erro ao instalar componentes ACBr em 01/10/2026 FastReport Win64](https://www.projetoacbr.com.br/forum/topic/95109-erro-ao-instalar-componentes-acbr-em-01102026-fastreport-win64/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Emissor Nacional Nota de Serviço](https://www.projetoacbr.com.br/forum/topic/95741-emissor-nacional-nota-de-servi%C3%A7o/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Envio sem Inscrição Estadual - Emitente Exclusivo do IBS/CBS - NT2026/007](https://www.projetoacbr.com.br/forum/topic/95842-envio-sem-inscri%C3%A7%C3%A3o-estadual-emitente-exclusivo-do-ibscbs-nt2026007/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)

@@ -2,7 +2,7 @@
 
 > **Espelho comunitário não oficial.** Este índice contém somente títulos e links públicos. Não reproduz mensagens nem representa orientação oficial do Projeto ACBr.
 
-Última consulta: **2026-11-22 06:53 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1460**.
+Última consulta: **2026-11-22 19:43 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1461**.
 
 ## Categorias públicas
 
@@ -1330,7 +1330,6 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Sem referencia na documentação do acbr api sobre ECONF](https://www.projetoacbr.com.br/forum/topic/95820-sem-referencia-na-documenta%C3%A7%C3%A3o-do-acbr-api-sobre-econf/) — [categoria](https://www.projetoacbr.com.br/forum/forum/100-duvidas-gerais-acbr-api/)
 - [\[ACBR-10263\]\[ACBR-10256\] CT-e Simplificado (NT 2026.004 v1.01): IBSCBS do det não é gerado em Gerar\_Det](https://www.projetoacbr.com.br/forum/topic/95828-acbr-10263acbr-10256-ct-e-simplificado-nt-2026004-v101-ibscbs-do-det-n%C3%A3o-%C3%A9-gerado-em-gerar_det/) — [categoria](https://www.projetoacbr.com.br/forum/forum/6-acbrcte/)
 - [Erro ao tentar cancelar NFC-e: 1824-Element \[http://www.portalfiscal.inf.br/nfe nProt': '13526007606632870 is not a valid value of the atomic type](https://www.projetoacbr.com.br/forum/topic/95829-erro-ao-tentar-cancelar-nfc-e-1824-element-httpwwwportalfiscalinfbrnfe-nprot-13526007606632870-is-not-a-valid-value-of-the-atomic-type/) — [categoria](https://www.projetoacbr.com.br/forum/forum/49-nfc-e-nota-fiscal-do-consumidor-eletr%C3%B4nica/)
-- [Profissional associado](https://www.projetoacbr.com.br/forum/topic/95831-profissional-associado/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [ERRO: Valor string invalido para TCSTPIS: 00](https://www.projetoacbr.com.br/forum/topic/95835-erro-valor-string-invalido-para-tcstpis-00/) — [categoria](https://www.projetoacbr.com.br/forum/forum/54-acbrmonitor-plus/)
 - [\[ACBR-10193\] NFSe Padrão Nacional: ConstrucaoCivil.Cib é Integer, mas o cCIB da obra é alfanumérico (8 caracteres)](https://www.projetoacbr.com.br/forum/topic/95837-acbr-10193-nfse-padr%C3%A3o-nacional-construcaocivilcib-%C3%A9-integer-mas-o-ccib-da-obra-%C3%A9-alfanum%C3%A9rico-8-caracteres/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [DCe Conflito: Manual (MOC) vs. Schema XSD Oficial](https://www.projetoacbr.com.br/forum/topic/95839-dce-conflito-manual-moc-vs-schema-xsd-oficial/) — [categoria](https://www.projetoacbr.com.br/forum/forum/6-acbrcte/)
@@ -1433,8 +1432,10 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [ERRO ao compilar o ACBr\_PCNComum.dpk após atualizar o ACBR no delphi 7](https://www.projetoacbr.com.br/forum/topic/96127-erro-ao-compilar-o-acbr_pcncomumdpk-ap%C3%B3s-atualizar-o-acbr-no-delphi-7/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Recuperar Evento DFe](https://www.projetoacbr.com.br/forum/topic/96129-recuperar-evento-dfe/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
 - [Emitindo NFS-e pelo emissor nacional](https://www.projetoacbr.com.br/forum/topic/96131-emitindo-nfs-e-pelo-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
-- [Pagamento efetuado na Eduzz, mas PRO ainda não disponível](https://www.projetoacbr.com.br/forum/topic/96134-pagamento-efetuado-na-eduzz-mas-pro-ainda-n%C3%A3o-dispon%C3%ADvel/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
+- [Pagamento efetuado na Eduzz, mas PRO ainda não disponível](https://www.projetoacbr.com.br/forum/topic/96134-pagamento-efetuado-na-eduzz-mas-pro-ainda-n%C3%A3o-dispon%C3%ADvel/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
+- [ACBrBoleto API Itau retornando erro ao registrar boleto: código de pagamento parcial Não pode aceitar indicador de divergencia total](https://www.projetoacbr.com.br/forum/topic/96135-acbrboleto-api-itau-retornando-erro-ao-registrar-boleto-c%C3%B3digo-de-pagamento-parcial-n%C3%A3o-pode-aceitar-indicador-de-divergencia-total/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
+- [Profissional associado](https://www.projetoacbr.com.br/forum/topic/95831-profissional-associado/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Erro ao emitir NFSe Castro-PR](https://www.projetoacbr.com.br/forum/topic/95765-erro-ao-emitir-nfse-castro-pr/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Erro ao instalar componentes ACBr em 01/10/2026 FastReport Win64](https://www.projetoacbr.com.br/forum/topic/95109-erro-ao-instalar-componentes-acbr-em-01102026-fastreport-win64/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Emissor Nacional Nota de Serviço](https://www.projetoacbr.com.br/forum/topic/95741-emissor-nacional-nota-de-servi%C3%A7o/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)

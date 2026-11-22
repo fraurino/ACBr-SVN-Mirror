@@ -2,7 +2,7 @@
 
 > **Espelho comunitário não oficial.** Este índice contém somente títulos e links públicos. Não reproduz mensagens nem representa orientação oficial do Projeto ACBr.
 
-Última consulta: **2026-11-21 19:19 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1460**.
+Última consulta: **2026-11-22 06:53 UTC** · Categorias descobertas: **118** · Tópicos indexados: **1460**.
 
 ## Categorias públicas
 
@@ -1401,7 +1401,7 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Preço de venda com IBS e CBS em 2027](https://www.projetoacbr.com.br/forum/topic/96048-pre%C3%A7o-de-venda-com-ibs-e-cbs-em-2027/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
 - [Contingencia ativada para a Sefaz de São Paulo no dia 17/11/2026](https://www.projetoacbr.com.br/forum/topic/96049-contingencia-ativada-para-a-sefaz-de-s%C3%A3o-paulo-no-dia-17112026/) — [categoria](https://www.projetoacbr.com.br/forum/forum/35-not%C3%ADcias-do-acbr/)
 - [Remessa do itaú não da certo o juros](https://www.projetoacbr.com.br/forum/topic/96056-remessa-do-ita%C3%BA-n%C3%A3o-da-certo-o-juros/) — [categoria](https://www.projetoacbr.com.br/forum/forum/8-acbrboleto/)
-- [Paulo Afonso/BA](https://www.projetoacbr.com.br/forum/topic/96060-paulo-afonsoba/) — [categoria](https://www.projetoacbr.com.br/forum/forum/36-acbrnfse/)
+- [Paulo Afonso/BA](https://www.projetoacbr.com.br/forum/topic/96060-paulo-afonsoba/) — [categoria](https://www.projetoacbr.com.br/forum/forum/57-acbrdfe/)
 - [Após atualização hoje(17/11/2026), ModeloDF, VersaoDF e outros](https://www.projetoacbr.com.br/forum/topic/96063-ap%C3%B3s-atualiza%C3%A7%C3%A3o-hoje17112026-modelodf-versaodf-e-outros/) — [categoria](https://www.projetoacbr.com.br/forum/forum/49-nfc-e-nota-fiscal-do-consumidor-eletr%C3%B4nica/)
 - [Depois de atualizar... Undeclared identifier: 'StrToTpAmb'](https://www.projetoacbr.com.br/forum/topic/96065-depois-de-atualizar-undeclared-identifier-strtotpamb/) — [categoria](https://www.projetoacbr.com.br/forum/forum/49-nfc-e-nota-fiscal-do-consumidor-eletr%C3%B4nica/)
 - [Ref. Trib. grupo gIBSCBSMono não é gerado quando os valores monofásicos “cobrados anteriormente” são zero, mesmo com cClassTrib que exige o grupo](https://www.projetoacbr.com.br/forum/topic/96069-ref-trib-grupo-gibscbsmono-n%C3%A3o-%C3%A9-gerado-quando-os-valores-monof%C3%A1sicos-%E2%80%9Ccobrados-anteriormente%E2%80%9D-s%C3%A3o-zero-mesmo-com-cclasstrib-que-exige-o-grupo/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
@@ -1419,7 +1419,7 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Disponibilizado impresso de evento para NFC-e no Fortes Report!](https://www.projetoacbr.com.br/forum/topic/96091-disponibilizado-impresso-de-evento-para-nfc-e-no-fortes-report/) — [categoria](https://www.projetoacbr.com.br/forum/forum/35-not%C3%ADcias-do-acbr/)
 - [\[ACR-10267\] ACBrBoleto Caixa (WS SOAP): INCLUI\_BOLETO com desconto rejeitado após r47666 – Element "TIPO" is not one of the choices](https://www.projetoacbr.com.br/forum/topic/96093-acr-10267-acbrboleto-caixa-ws-soap-inclui_boleto-com-desconto-rejeitado-ap%C3%B3s-r47666-%E2%80%93-element-tipo-is-not-one-of-the-choices/) — [categoria](https://www.projetoacbr.com.br/forum/forum/8-acbrboleto/)
 - [ACBrBaaS - API BB (Banco do Brasil) - Pagamentos em Lote](https://www.projetoacbr.com.br/forum/topic/96094-acbrbaas-api-bb-banco-do-brasil-pagamentos-em-lote/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
-- [\[ACBR-10215\] NFS-e Distribuição - Consultar por cpf](https://www.projetoacbr.com.br/forum/topic/96096-acbr-10215-nfs-e-distribui%C3%A7%C3%A3o-consultar-por-cpf/) — [categoria](https://www.projetoacbr.com.br/forum/forum/57-acbrdfe/)
+- [\[ACBR-10215\] NFS-e Distribuição - Consultar por cpf](https://www.projetoacbr.com.br/forum/topic/96096-acbr-10215-nfs-e-distribui%C3%A7%C3%A3o-consultar-por-cpf/) — [categoria](https://www.projetoacbr.com.br/forum/forum/36-acbrnfse/)
 - [Erro consulta nfse Barueri](https://www.projetoacbr.com.br/forum/topic/96098-erro-consulta-nfse-barueri/) — [categoria](https://www.projetoacbr.com.br/forum/forum/36-acbrnfse/)
 - [CT-e: QR Code sem o parâmetro sign na Contingência Offline (tpEmis 2), NT 2026.004 (rejeição 853)](https://www.projetoacbr.com.br/forum/topic/96100-ct-e-qr-code-sem-o-par%C3%A2metro-sign-na-conting%C3%AAncia-offline-tpemis-2-nt-2026004-rejei%C3%A7%C3%A3o-853/) — [categoria](https://www.projetoacbr.com.br/forum/forum/6-acbrcte/)
 - [Bradesco: Manutenção Programada no Ambiente de Produção em 21/11/2026](https://www.projetoacbr.com.br/forum/topic/96101-bradesco-manuten%C3%A7%C3%A3o-programada-no-ambiente-de-produ%C3%A7%C3%A3o-em-21112026/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
@@ -1432,9 +1432,9 @@ A lista registra tópicos visíveis nas primeiras páginas das categorias consul
 - [Rejeição 1229 Nao informada Tributacao Monofasica Ad Valorem do IBS](https://www.projetoacbr.com.br/forum/topic/96126-rejei%C3%A7%C3%A3o-1229-nao-informada-tributacao-monofasica-ad-valorem-do-ibs/) — [categoria](https://www.projetoacbr.com.br/forum/forum/54-acbrmonitor-plus/)
 - [ERRO ao compilar o ACBr\_PCNComum.dpk após atualizar o ACBR no delphi 7](https://www.projetoacbr.com.br/forum/topic/96127-erro-ao-compilar-o-acbr_pcncomumdpk-ap%C3%B3s-atualizar-o-acbr-no-delphi-7/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Recuperar Evento DFe](https://www.projetoacbr.com.br/forum/topic/96129-recuperar-evento-dfe/) — [categoria](https://www.projetoacbr.com.br/forum/forum/4-acbrnfe/)
-- [Emitindo NFS-e pelo emissor nacional](https://www.projetoacbr.com.br/forum/topic/96131-emitindo-nfs-e-pelo-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
+- [Emitindo NFS-e pelo emissor nacional](https://www.projetoacbr.com.br/forum/topic/96131-emitindo-nfs-e-pelo-emissor-nacional/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
+- [Pagamento efetuado na Eduzz, mas PRO ainda não disponível](https://www.projetoacbr.com.br/forum/topic/96134-pagamento-efetuado-na-eduzz-mas-pro-ainda-n%C3%A3o-dispon%C3%ADvel/) — [categoria](https://www.projetoacbr.com.br/forum/forum/37-f%C3%B3rum-aberto-acbr/)
 - [Redução Z Daruma](https://www.projetoacbr.com.br/forum/topic/9723-redu%C3%A7%C3%A3o-z-daruma/) — [categoria](https://www.projetoacbr.com.br/forum/forum/43-vb6-activex/)
-- [Pagamento efetuado na Eduzz, mas PRO ainda não disponível](https://www.projetoacbr.com.br/forum/topic/96134-pagamento-efetuado-na-eduzz-mas-pro-ainda-n%C3%A3o-dispon%C3%ADvel/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Erro ao emitir NFSe Castro-PR](https://www.projetoacbr.com.br/forum/topic/95765-erro-ao-emitir-nfse-castro-pr/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Erro ao instalar componentes ACBr em 01/10/2026 FastReport Win64](https://www.projetoacbr.com.br/forum/topic/95109-erro-ao-instalar-componentes-acbr-em-01102026-fastreport-win64/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
 - [Emissor Nacional Nota de Serviço](https://www.projetoacbr.com.br/forum/topic/95741-emissor-nacional-nota-de-servi%C3%A7o/) — [categoria](https://www.projetoacbr.com.br/forum/forum/3-d%C3%BAvidas-gerais-sobre-o-acbr/)
